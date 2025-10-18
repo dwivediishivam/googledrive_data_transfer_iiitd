@@ -4,12 +4,12 @@
 
 ## Important Note
 
-When this guide was made, I wasn't aware about the fact that Google Takeout has a feature to transfer all your data from one Google Account to another. Apparently, it is education account exclusive, so I didn't know about it.
-Anyways, just use that to transfer your data.
+When this guide was made, I wasn't aware about the fact that Google Takeout has a feature to transfer all your data from one Google Account to another. Apparently, it is education account exclusive, so I didn't know about it. I only knew about Google Takeout but that was very tedious as you had to download and upload.
+Anyways, just use that to transfer your data. (Wasted so much time on this, I need my day back aghhhh)
 
 [Click Here for Google Takeout Transfer](https://takeout.google.com/u/5/transfer?hl=en-GB&dnm=true&pli=1)
 
-There are still a few things you can do with this guide (that can't be done with Takeout Transfer, i.e. copy [Shared with You] files and delete all except those [You have shared]. The second might especially be useful in case you have used some sharing links somewhere and don't know what will break if you delete all the data.
+There are still a few things you can do with this guide (that can't be done with Takeout Transfer, i.e. copy [Shared with You] files and delete all except those [You have shared].
 
 -----
 

@@ -1,9 +1,5 @@
 # IIITD Google Drive (and Google Photos) Data Transfer to Personal Google Drive (and Google Photos)
 
-## 1\. Introduction: Why Do This?
-
-Your IIITD Google Workspace account storage limit will be reduced to 5GB after graduation. This guide provides a comprehensive, step-by-step method to transfer all your data (including "Shared with me" files) from your IIITD account to a personal Google account using a powerful tool called `rclone`.
-
 -----
 
 ## Important Note
@@ -16,6 +12,10 @@ Anyways, just use that to transfer your data.
 There are still a few things you can do with this guide (that can't be done with Takeout Transfer, i.e. copy [Shared with You] files and delete all except those [You have shared]. The second might especially be useful in case you have used some sharing links somewhere and don't know what will break if you delete all the data.
 
 -----
+
+## 1\. Introduction: Why Do This?
+
+Your IIITD Google Workspace account storage limit will be reduced to 5GB after graduation. This guide provides a comprehensive, step-by-step method to transfer all your data (including "Shared with me" files) from your IIITD account to a personal Google account using a powerful tool called `rclone`.
 
 **This guide is split into 5 parts:**
 

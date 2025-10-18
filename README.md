@@ -247,6 +247,13 @@ rclone delete --tpslimit 8 --dry-run --files-from <(rclone backend dump gdrive_i
 rclone delete --tpslimit 8 --files-from <(rclone backend dump gdrive_iiitd: --drive-qs "'me' in owners and trashed=false and visibility='private'")
 ```
 
+**Note for Winows Users:** Option 2, run without the () parameter in two seperate commands.
+```bash
+rclone backend dump gdrive_iiitd: --drive-qs "'me' in owners and trashed=false and visibility='private'" > files.txt
+rclone delete --tpslimit 8 --files-from files.txt
+```
+
+
 -----
 
 *This readme was prepared by Shivam Dwivedi.*

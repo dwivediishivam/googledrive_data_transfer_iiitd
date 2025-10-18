@@ -1,4 +1,4 @@
-# IIITD Google Drive (and Photos) Data Transfer to Personal Google Drive (and Photos)
+# IIITD Google Drive (and Google Photos) Data Transfer to Personal Google Drive (and Google Photos)
 
 ## 1\. Introduction: Why Do This?
 
@@ -12,6 +12,7 @@ Your IIITD Google Workspace account storage limit will be reduced to 5GB after g
 4.  **Verify Your Transfer:** Manually check that your data is safe.
 5.  **Delete IIITD Data:** Securely wipe your IIITD account data.
 
+**Please note this guide is only tested/verified on Mac**
 -----
 
 ## 2\. Part 1: Install rclone

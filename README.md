@@ -4,6 +4,19 @@
 
 Your IIITD Google Workspace account storage limit will be reduced to 5GB after graduation. This guide provides a comprehensive, step-by-step method to transfer all your data (including "Shared with me" files) from your IIITD account to a personal Google account using a powerful tool called `rclone`.
 
+-----
+
+## Important Note
+
+When this guide was made, I wasn't aware about the fact that Google Takeout has a feature to transfer all your data from one Google Account to another. Apparently, it is education account exclusive, so I didn't know about it.
+Anyways, just use that to transfer your data.
+
+[Click Here for Google Takeout Transfer](https://takeout.google.com/u/5/transfer?hl=en-GB&dnm=true&pli=1)
+
+There are still a few things you can do with this guide (that can't be done with Takeout Transfer, i.e. copy [Shared with You] files and delete all except those [You have shared]. The second might especially be useful in case you have used some sharing links somewhere and don't know what will break if you delete all the data.
+
+-----
+
 **This guide is split into 5 parts:**
 
 1.  **Install rclone:** Get the tool on your computer.
@@ -12,7 +25,6 @@ Your IIITD Google Workspace account storage limit will be reduced to 5GB after g
 4.  **Verify Your Transfer:** Manually check that your data is safe.
 5.  **Delete IIITD Data:** Securely wipe your IIITD account data.
 
-**Please note this guide is only tested/verified on Mac**
 -----
 
 ## 2\. Part 1: Install rclone
